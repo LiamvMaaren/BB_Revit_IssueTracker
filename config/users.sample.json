@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": "liam-van-maaren",
+    "display_name": "Liam van Maaren",
+    "username": "LIAM",
+    "revit_username": "Liam",
+    "email": "liam@bureaubouwkunde.nl",
+    "active": true
+  },
+  {
+    "user_id": "mahir-karakus",
+    "display_name": "Mahir Karakus",
+    "username": "MAHIR",
+    "revit_username": "Mahir",
+    "email": "mahir@bureaubouwkunde.nl",
+    "active": true
+  }
+]

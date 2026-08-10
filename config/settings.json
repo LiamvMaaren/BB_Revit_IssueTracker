@@ -1,0 +1,36 @@
+{
+  "storage_root": "P:\\Data\\pyRevit Support\\BB_IssueTracker",
+  "issue_id_format": "{project_number}-#{number}",
+  "refresh_seconds": 10,
+  "screenshot_pixel_size": 1800,
+  "lock_timeout_seconds": 30,
+  "statuses": [
+    "Open",
+    "Opgelost",
+    "Gesloten"
+  ],
+  "priorities": [
+    "Laag",
+    "Normaal",
+    "Hoog",
+    "Kritiek"
+  ],
+  "issue_types": [
+    "Modelleerfout",
+    "Tekenwerk",
+    "Brandveiligheid",
+    "Coördinatie",
+    "Vraag",
+    "Controle",
+    "Afstemming opdrachtgever",
+    "Overig"
+  ],
+  "status_filters": [
+    "Open",
+    "Opgelost",
+    "Gesloten",
+    "Te laat"
+  ],
+  "marker_refresh_seconds": 1,
+  "review_section_box_size_m": 4.0
+}
